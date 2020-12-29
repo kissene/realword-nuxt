@@ -1,0 +1,5 @@
+# Folders to ignore
+npm-debug.log
+.vscode
+node_modules
+.nuxt

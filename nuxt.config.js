@@ -71,4 +71,5 @@ module.exports = {
     '~/plugins/request.js',
     '~/plugins/dayjs.js'
   ]
+
 }

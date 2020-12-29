@@ -15,5 +15,11 @@
     "dev": "nuxt --port 3333",
     "build": "nuxt build",
     "start": "nuxt start"
+  },
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": 3000
+    }
   }
 }
